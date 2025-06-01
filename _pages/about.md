@@ -18,9 +18,9 @@ redirect_from:
 
 # About Me
 
-I am Ziyi Wang, an undergraduate student at the YingCai Honors College, University of Electronic Science and Technology of China (UESTC), where I am pursuing a B.S. in Mathematics and Computer Science. My academic journey is driven by a profound curiosity and a steadfast determination to contribute to the frontiers of intelligent systems.
+I am Ziyi Wang, an undergraduate student at the [YingCai Honors College](https://www.yingcai.uestc.edu.cn/en/), University of Electronic Science and Technology of China ([UESTC](https://en.uestc.edu.cn)), where I am pursuing a B.S. in Mathematics and Computer Science. My academic journey is driven by a profound curiosity and a steadfast determination to contribute to the frontiers of intelligent systems.
 
-My foundational research experience was in Low-Level Computer Vision, working under the guidance of [Prof. Shuaicheng Liu](http://www.liushuaicheng.org) in the [Image Processing Lab](https://www.sice.uestc.edu.cn/kxyj/kytd/xxgcx/txclyjtd.htm) at the University of Electronic Science and Technology of China ([UESTC](https://www.uestc.edu.cn)). This experience solidified my passion for research and honed my analytical and problem-solving abilities.
+My foundational research experience was in Low-Level Computer Vision, working under the guidance of [Prof. Shuaicheng Liu](http://www.liushuaicheng.org) in the [Image Processing Lab](https://www.sice.uestc.edu.cn/kxyj/kytd/xxgcx/txclyjtd.htm) at the University of Electronic Science and Technology of China ([UESTC](https://en.uestc.edu.cn)). This experience solidified my passion for research and honed my analytical and problem-solving abilities.
 
 Starting August 2025, I will be joining the Department of Data and Systems Engineering ([DASE](https://www.dase.hku.hk)) at The University of Hong Kong ([HKU](https://www.hku.hk)) as a Research Assistant. Under the supervision of [Dr. Shinan Liu](https://www.shinan.info), I look forward to delving into exciting projects related to machine learning systems, computer networking, and security. My work there will explore both "ML for Systems"—applying learning techniques to enhance networked infrastructures—and "Systems for ML"—designing efficient and robust large-scale training and inference pipelines. This opportunity will also allow me to complete my undergraduate thesis.
 
@@ -31,21 +31,21 @@ I approach my work with meticulous rigor and an outgoing nature, and I believe i
 My ultimate goal is to pursue a long-term academic career as an independent researcher, dedicated to making impactful contributions to the scientific community.
 
 # News
-- **[Announcement] Aug. 2025**: Excited to announce that I will be joining Prof. Shinan Liu's research group at the Department of Data and Systems Engineering (DASE), The University of Hong Kong (HKU), as a Research Assistant! (Anticipated start)
+- **[Announcement] Aug. 2025**: Excited to announce that I will be joining [Dr. Shinan Liu](https://www.shinan.info)'s research group at the Department of Data and Systems Engineering ([DASE](https://www.dase.hku.hk)), The University of Hong Kong ([HKU](https://www.hku.hk)), as a Research Assistant! (Anticipated start)
 
-- **[Talk] May 2025**: Honored to have been invited to give a guest talk on Computer Vision at Northwestern Polytechnical University (NWPU) on May 25, 2025.
+- **[Talk] May 2025**: Honored to have been invited to give a guest talk on Computer Vision at Northwestern Polytechnical University ([NWPU](https://en.nwpu.edu.cn/)) on May 25, 2025.
 
-- **[Award] Nov. 2024**: Honored to have received the First-Class Scholarship for Outstanding Students from UESTC.
+- **[Award] Nov. 2024**: Honored to have received the First-Class Scholarship for Outstanding Students from [UESTC](https://en.uestc.edu.cn).
 
-- **[Competition] Oct. 2024**: Thrilled that our team achieved a Top 0.091 Global Rank in the IEEEXtreme 18.0 Programming Competition!
+- **[Competition] Oct. 2024**: Thrilled that our team achieved a Top 0.091 Global Rank in the [IEEEXtreme](https://ieeextreme.org/) 18.0 Programming Competition!
 
 - **[Paper] Mar. 2024**: Our paper, "RecDiffusion: Rectangling for Image Stitching with Diffusion Models," was accepted at CVPR 2024. Shout out to my co-authors: Tianhao Zhou, Haipeng Li, Ao Luo, Chen Lin Zhang, Jiajun Li, Bing Zeng, and Prof. Shuaicheng Liu!
 
-- **[Award] Nov. 2023**: Honored to have received the First-Class Scholarship for Outstanding Students from UESTC.
+- **[Award] Nov. 2023**: Honored to have received the First-Class Scholarship for Outstanding Students from [UESTC](https://en.uestc.edu.cn).
 
-- **[Award] Oct. 2023**: Delighted to have received the Black Horse Award in the Huawei Kunpeng System Development Program.
+- **[Award] Oct. 2023**: Delighted to have received the Black Horse Award in the [Huawei Kunpeng](www.hikunpeng.com) System Development Program.
 
-- **[Recognition] Jul. 2023**: Grateful to have received A-Level Student recognition at the National University of Singapore (NUS) School of Computing's summer camp.
+- **[Recognition] Jul. 2023**: Grateful to have received A-Level Student recognition at the National University of Singapore ([NUS](https://nus.edu.sg/)) [School of Computing](https://www.comp.nus.edu.sg/)'s summer camp.
 
 # Publications
 **2025**
