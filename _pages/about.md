@@ -33,15 +33,17 @@ My ultimate goal is to pursue a long-term academic career as an independent rese
 # News
 - **[Announcement] Aug. 2025**: Excited to announce that I will be joining [Dr. Shinan Liu](https://www.shinan.info)'s research group at the Department of Data and Systems Engineering ([DASE](https://www.dase.hku.hk)), The University of Hong Kong ([HKU](https://www.hku.hk)), as a Research Assistant! (Anticipated start)
 
-- **[Talk] May 2025**: Honored to have been invited to give a guest talk on Computer Vision at Northwestern Polytechnical University ([NWPU](https://en.nwpu.edu.cn/)) on May 25, 2025.
+- **[Talk] May 2025**: Honored to have been invited to give a guest talk on Computer Vision at Northwestern Polytechnical University ([NWPU](https://en.nwpu.edu.cn/)).
 
-- **[Award] Nov. 2024**: Honored to have received the First-Class Scholarship for Outstanding Students from [UESTC](https://en.uestc.edu.cn).
+- **[Award] Nov. 2024**: Delighted to have received the First-Class Scholarship for Outstanding Students from [UESTC](https://en.uestc.edu.cn).
 
 - **[Competition] Oct. 2024**: Thrilled that our team achieved a Top 0.091 Global Rank in the [IEEEXtreme](https://ieeextreme.org/) 18.0 Programming Competition!
 
+- **[Talk] Jun. 16, 2024**: Glad to have been invited to give an academic report on GenAI and DMs at [YingCai Honors College](https://www.yingcai.uestc.edu.cn/en/), [UESTC](https://en.uestc.edu.cn).
+
 - **[Paper] Mar. 2024**: Our paper, "RecDiffusion: Rectangling for Image Stitching with Diffusion Models," was accepted at CVPR 2024. Shout out to my co-authors: Tianhao Zhou, Haipeng Li, Ao Luo, Chen Lin Zhang, Jiajun Li, Bing Zeng, and Prof. Shuaicheng Liu!
 
-- **[Award] Nov. 2023**: Honored to have received the First-Class Scholarship for Outstanding Students from [UESTC](https://en.uestc.edu.cn).
+- **[Award] Nov. 2023**: Happy to have received the First-Class Scholarship for Outstanding Students from [UESTC](https://en.uestc.edu.cn).
 
 - **[Award] Oct. 2023**: Delighted to have received the Black Horse Award in the [Huawei Kunpeng](www.hikunpeng.com) System Development Program.
 
