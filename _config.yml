@@ -21,12 +21,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Ziyi Wang"
-  avatar           : "images/profile.png"
-  bio              : ""
+  avatar           : "images/profile_latest.JPEG"
+  bio              : "Talk is cheap, show me the code."
   employer         :
   pubmed           : 
-  email            : "ziyiwang@std.uestc.edu.cn"
-  googlescholar    : "https://scholar.google.com/citations?user=_vltU1UAAAAJ&hl=en&oi=sra"
+  email            : "ziyiwhat@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=MyIS_8QAAAAJ&hl=zh-CN&oi=sra"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

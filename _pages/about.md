@@ -18,14 +18,48 @@ redirect_from:
 
 # About Me
 
-I am an undergraduate student in Yingcai Honors College of UESTC, supervised by [Prof. Shuaicheng Liu](http://www.liushuaicheng.org/).
+I am Ziyi Wang, an undergraduate student at the YingCai Honors College, University of Electronic Science and Technology of China (UESTC), where I am pursuing a B.S. in Mathematics and Computer Science. My academic journey is driven by a profound curiosity and a steadfast determination to contribute to the frontiers of intelligent systems.
+
+My foundational research experience was in Low-Level Computer Vision, working under the guidance of [Prof. Shuaicheng Liu](http://www.liushuaicheng.org) in the [Image Processing Lab](https://www.sice.uestc.edu.cn/kxyj/kytd/xxgcx/txclyjtd.htm) at the University of Electronic Science and Technology of China ([UESTC](https://www.uestc.edu.cn)). This experience solidified my passion for research and honed my analytical and problem-solving abilities.
+
+Starting August 2025, I will be joining the Department of Data and Systems Engineering ([DASE](https://www.dase.hku.hk)) at The University of Hong Kong ([HKU](https://www.hku.hk)) as a Research Assistant. Under the supervision of [Dr. Shinan Liu](https://www.shinan.info), I look forward to delving into exciting projects related to machine learning systems, computer networking, and security. My work there will explore both "ML for Systems"—applying learning techniques to enhance networked infrastructures—and "Systems for ML"—designing efficient and robust large-scale training and inference pipelines. This opportunity will also allow me to complete my undergraduate thesis.
+
+While my initial research focused on Computer Vision, my interests are expanding. I am keenly interested in exploring areas such as Large Models, MLSys (Machine Learning Systems), and Embodied Intelligence as I move towards my doctoral studies. I am particularly drawn to the challenge of developing meaningful and foundational advancements in these rapidly evolving fields.
+
+I approach my work with meticulous rigor and an outgoing nature. I believe in the power of collaboration and have developed leadership skills through roles such as being the Study Monitor for my class. Beyond academics, pursuits like music and coaching football have instilled in me discipline, creativity, and a strong sense of teamwork—qualities I consider vital for a successful research career.
+
+My ultimate goal is to pursue a long-term academic career as an independent researcher, dedicated to making impactful contributions to the scientific community.
 
 # News
+- **[Announcement] Aug. 2025**: Excited to announce that I will be joining Prof. Shinan Liu's research group at the Department of Data and Systems Engineering (DASE), The University of Hong Kong (HKU), as a Research Assistant! (Anticipated start)
 
-- *2024.02*: &nbsp; One paper is accepted to CVPR 2024.
-- *2024.08*: &nbsp; One paper is in submission to AAAI 2025.
+- **[Talk] May 2025**: Honored to have been invited to give a guest talk on Computer Vision at Northwestern Polytechnical University (NWPU) on May 25, 2025.
+
+- **[Award] Nov. 2024**: Honored to have received the First-Class Scholarship for Outstanding Students from UESTC.
+
+- **[Competition] Oct. 2024**: Thrilled that our team achieved a Top 0.091 Global Rank in the IEEEXtreme 18.0 Programming Competition!
+
+- **[Paper] Mar. 2024**: Our paper, "RecDiffusion: Rectangling for Image Stitching with Diffusion Models," was accepted at CVPR 2024. Shout out to my co-authors: Tianhao Zhou, Haipeng Li, Ao Luo, Chen Lin Zhang, Jiajun Li, Bing Zeng, and Prof. Shuaicheng Liu!
+
+- **[Award] Nov. 2023**: Honored to have received the First-Class Scholarship for Outstanding Students from UESTC.
+
+- **[Award] Oct. 2023**: Delighted to have received the Black Horse Award in the Huawei Kunpeng System Development Program.
+
+- **[Recognition] Jul. 2023**: Grateful to have received A-Level Student recognition at the National University of Singapore (NUS) School of Computing's summer camp.
 
 # Publications
+**2025**
+
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2025_StableMotion/stablemotion.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**StableMotion: Repurposing Diffusion-Based Image Priors for Motion Estimation**
+
+**Ziyi Wang**, Haipeng Li, Lin Sui, Tianhao Zhou, Hai Jiang, Lang Nie, Shuaicheng Liu
+
+[Paper](https://arxiv.org/abs/2505.06668) \| [Code](https://github.com/ziyiwhat/StableMotion) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
 
 **2024**
 
@@ -34,11 +68,9 @@ I am an undergraduate student in Yingcai Honors College of UESTC, supervised by 
 
 **RecDiffusion: Rectangling for Image Stitching with Diffusion Models**
 
-*IEEE/CVF Computer Vision and Pattern Recognition Conference (**CVPR**), 2024*
-
 Tianhao Zhou\*, Haipeng Li\*, **Ziyi Wang**, Ao Luo, Chen-Lin Zhang, Jiajun Li, Bing Zeng, Shuaicheng Liu
 
-[Paper](https://arxiv.org/abs/2403.19164) \| Video \| [Code](https://github.com/lhaippp/RecDiffusion) \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](https://arxiv.org/abs/2403.19164) \| [Code](https://github.com/lhaippp/RecDiffusion) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
