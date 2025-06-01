@@ -24,9 +24,9 @@ My foundational research experience was in Low-Level Computer Vision, working un
 
 Starting August 2025, I will be joining the Department of Data and Systems Engineering ([DASE](https://www.dase.hku.hk)) at The University of Hong Kong ([HKU](https://www.hku.hk)) as a Research Assistant. Under the supervision of [Dr. Shinan Liu](https://www.shinan.info), I look forward to delving into exciting projects related to machine learning systems, computer networking, and security. My work there will explore both "ML for Systems"—applying learning techniques to enhance networked infrastructures—and "Systems for ML"—designing efficient and robust large-scale training and inference pipelines. This opportunity will also allow me to complete my undergraduate thesis.
 
-While my initial research focused on Computer Vision, my interests are expanding. I am keenly interested in exploring areas such as Large Models, MLSys (Machine Learning Systems), and Embodied Intelligence as I move towards my doctoral studies. I am particularly drawn to the challenge of developing meaningful and foundational advancements in these rapidly evolving fields.
+While my initial research focused on Computer Vision, my interests are expanding. I am keenly interested in exploring areas such as LLMs, MLSys (Machine Learning Systems), and Embodied Intelligence as I move towards my doctoral studies. I am particularly drawn to the challenge of developing meaningful and foundational advancements in these rapidly evolving fields.
 
-I approach my work with meticulous rigor and an outgoing nature. I believe in the power of collaboration and have developed leadership skills through roles such as being the Study Monitor for my class. Beyond academics, pursuits like music and coaching football have instilled in me discipline, creativity, and a strong sense of teamwork—qualities I consider vital for a successful research career.
+I approach my work with meticulous rigor and an outgoing nature, and I believe in the power of collaboration. Beyond academics, pursuits like music and football have instilled in me discipline, creativity, and a strong sense of teamwork—qualities I consider vital for a successful research career.
 
 My ultimate goal is to pursue a long-term academic career as an independent researcher, dedicated to making impactful contributions to the scientific community.
 
