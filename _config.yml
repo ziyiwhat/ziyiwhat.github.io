@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Ziyi Wang"
   avatar           : "images/profile_latest.JPEG"
-  bio              : 
+  bio              : ""
   employer         :
   pubmed           : 
   email            : "ziyiwhat@gmail.com"
