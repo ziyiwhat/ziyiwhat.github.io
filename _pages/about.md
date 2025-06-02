@@ -60,7 +60,6 @@ My ultimate goal is to pursue a long-term academic career as an independent rese
 </style>
 
 <div class="news-section">
-  <h2>News</h2>
   <ul>
     <li>
       <span class="news-label label-announcement">[Announcement]</span><span class="news-date">Aug. 2025:</span> Excited to announce that I will be joining <a href="https://www.shinan.info">Dr. Shinan Liu</a>'s research group at the Department of Data and Systems Engineering (<a href="https://www.dase.hku.hk">DASE</a>), The University of Hong Kong (<a href="https://www.hku.hk">HKU</a>), as a Research Assistant! (Anticipated start)
