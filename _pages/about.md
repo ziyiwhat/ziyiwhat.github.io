@@ -31,23 +31,66 @@ I approach my work with meticulous rigor and an outgoing nature, and I believe i
 My ultimate goal is to pursue a long-term academic career as an independent researcher, dedicated to making impactful contributions to the scientific community.
 
 # News
-- **[Announcement] Aug. 2025**: Excited to announce that I will be joining [Dr. Shinan Liu](https://www.shinan.info)'s research group at the Department of Data and Systems Engineering ([DASE](https://www.dase.hku.hk)), The University of Hong Kong ([HKU](https://www.hku.hk)), as a Research Assistant! (Anticipated start)
+<style>
+  .news-section ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  .news-section li {
+    margin-bottom: 10px;
+    line-height: 1.6;
+  }
+  .news-label {
+    font-weight: bold;
+    padding: 2px 6px;
+    border-radius: 4px;
+    margin-right: 5px;
+    color: white; /* Default text color for labels, can be overridden */
+  }
+  .label-announcement { background-color: #77AADD; /* Soft Blue */ }
+  .label-talk { background-color: #88CCAA; /* Muted Teal */ }
+  .label-award { background-color: #DDCC77; color: #333; /* Soft Gold, darker text for contrast */ }
+  .label-competition { background-color: #AAAAAA; /* Light Grey */ }
+  .label-paper { background-color: #6699CC; /* Steel Blue */ }
+  .label-recognition { background-color: #99CCBB; color: #333; /* Pale Cyan, darker text for contrast */ }
+  .news-date {
+    font-weight: bold;
+    margin-right: 5px;
+  }
+</style>
 
-- **[Talk] May 2025**: Honored to have been invited to give a guest talk on Computer Vision at Northwestern Polytechnical University ([NWPU](https://en.nwpu.edu.cn/)).
-
-- **[Award] Nov. 2024**: Delighted to have received the First-Class Scholarship for Outstanding Students from [UESTC](https://en.uestc.edu.cn).
-
-- **[Competition] Oct. 2024**: Thrilled that our team achieved a Top 0.091 Global Rank in the [IEEEXtreme](https://ieeextreme.org/) 18.0 Programming Competition!
-
-- **[Talk] Jun. 16, 2024**: Glad to have been invited to give an academic report on GenAI and DMs at [YingCai Honors College](https://www.yingcai.uestc.edu.cn/en/), [UESTC](https://en.uestc.edu.cn).
-
-- **[Paper] Mar. 2024**: Our paper, "RecDiffusion: Rectangling for Image Stitching with Diffusion Models," was accepted at CVPR 2024. Shout out to my co-authors: Tianhao Zhou, Haipeng Li, Ao Luo, Chen Lin Zhang, Jiajun Li, Bing Zeng, and Prof. Shuaicheng Liu!
-
-- **[Award] Nov. 2023**: Happy to have received the First-Class Scholarship for Outstanding Students from [UESTC](https://en.uestc.edu.cn).
-
-- **[Award] Oct. 2023**: Delighted to have received the Black Horse Award in the [Huawei Kunpeng](www.hikunpeng.com) System Development Program.
-
-- **[Recognition] Jul. 2023**: Grateful to have received A-Level Student recognition at the National University of Singapore ([NUS](https://nus.edu.sg/)) [School of Computing](https://www.comp.nus.edu.sg/)'s summer camp.
+<div class="news-section">
+  <h2>News</h2>
+  <ul>
+    <li>
+      <span class="news-label label-announcement">[Announcement]</span><span class="news-date">Aug. 2025:</span> Excited to announce that I will be joining <a href="https://www.shinan.info">Dr. Shinan Liu</a>'s research group at the Department of Data and Systems Engineering (<a href="https://www.dase.hku.hk">DASE</a>), The University of Hong Kong (<a href="https://www.hku.hk">HKU</a>), as a Research Assistant! (Anticipated start)
+    </li>
+    <li>
+      <span class="news-label label-talk">[Talk]</span><span class="news-date">May 2025:</span> Honored to have been invited to give a guest talk on Computer Vision at Northwestern Polytechnical University (<a href="https://en.nwpu.edu.cn/">NWPU</a>).
+    </li>
+    <li>
+      <span class="news-label label-award">[Award]</span><span class="news-date">Nov. 2024:</span> Delighted to have received the First-Class Scholarship for Outstanding Students from <a href="https://en.uestc.edu.cn">UESTC</a>.
+    </li>
+    <li>
+      <span class="news-label label-competition">[Competition]</span><span class="news-date">Oct. 2024:</span> Thrilled that our team achieved a Top 0.091 Global Rank in the <a href="https://ieeextreme.org/">IEEEXtreme</a> 18.0 Programming Competition!
+    </li>
+    <li>
+      <span class="news-label label-talk">[Talk]</span><span class="news-date">Jun. 16, 2024:</span> Glad to have been invited to give an academic report on GenAI and DMs at <a href="https://www.yingcai.uestc.edu.cn/en/">YingCai Honors College</a>, <a href="https://en.uestc.edu.cn">UESTC</a>.
+    </li>
+    <li>
+      <span class="news-label label-paper">[Paper]</span><span class="news-date">Mar. 2024:</span> Our paper, "RecDiffusion: Rectangling for Image Stitching with Diffusion Models," was accepted at CVPR 2024. Shout out to my co-authors: Tianhao Zhou, Haipeng Li, Ao Luo, Chen Lin Zhang, Jiajun Li, Bing Zeng, and Prof. Shuaicheng Liu!
+    </li>
+    <li>
+      <span class="news-label label-award">[Award]</span><span class="news-date">Nov. 2023:</span> Happy to have received the First-Class Scholarship for Outstanding Students from <a href="https://en.uestc.edu.cn">UESTC</a>.
+    </li>
+    <li>
+      <span class="news-label label-award">[Award]</span><span class="news-date">Oct. 2023:</span> Delighted to have received the Black Horse Award in the <a href="http://www.hikunpeng.com">Huawei Kunpeng</a> System Development Program.
+    </li>
+    <li>
+      <span class="news-label label-recognition">[Recognition]</span><span class="news-date">Jul. 2023:</span> Grateful to have received A-Level Student recognition at the National University of Singapore (<a href="https://nus.edu.sg/">NUS</a>) <a href="https://www.comp.nus.edu.sg/">School of Computing</a>'s summer camp.
+    </li>
+  </ul>
+</div>
 
 # Publications
 **2025**
