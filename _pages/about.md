@@ -21,9 +21,9 @@ redirect_from:
 I am Ziyi Wang, an undergraduate student at the [YingCai Honors College](https://www.yingcai.uestc.edu.cn/en/), University of Electronic Science and Technology of China ([UESTC](https://en.uestc.edu.cn)), where I am pursuing a B.S. in Mathematics and Computer Science. My academic journey is driven by a profound curiosity and a steadfast determination to contribute to the frontiers of intelligent systems.
 
 My foundational research experience was in Low-Level Computer Vision, working under the guidance of [Prof. Shuaicheng Liu](http://www.liushuaicheng.org) in the [Image Processing Lab](https://www.sice.uestc.edu.cn/kxyj/kytd/xxgcx/txclyjtd.htm) at the University of Electronic Science and Technology of China ([UESTC](https://en.uestc.edu.cn)). This experience solidified my passion for research and honed my analytical and problem-solving abilities. During this period, I was also fortunate to be mentored by [Dr. Haipeng Li](https://lhaippp.github.io/). His invaluable trust and encouragement were instrumental in supporting me through challenging times and significantly shaped my early research endeavors.
-
+<!--
 Starting August 2025, I will be joining the Department of Data and Systems Engineering ([DASE](https://www.dase.hku.hk)) at The University of Hong Kong ([HKU](https://www.hku.hk)) as a Research Assistant. Under the supervision of [Dr. Shinan Liu](https://www.shinan.info), I look forward to delving into exciting projects related to machine learning systems, computer networking, and security. My work there will explore both "ML for Systems"—applying learning techniques to enhance networked infrastructures—and "Systems for ML"—designing efficient and robust large-scale training and inference pipelines. This opportunity will also allow me to complete my undergraduate thesis.
-
+-->
 While my initial research focused on Computer Vision, my interests are expanding. I am keenly interested in exploring areas such as MLLMs, MLSys, and Embodied Intelligence as I move towards my doctoral studies. I am particularly drawn to the challenge of developing meaningful and foundational advancements in these rapidly evolving fields.
 
 I approach my work with meticulous rigor and an outgoing nature, and I believe in the power of collaboration. Beyond academics, pursuits like music and football have instilled in me discipline, creativity, and a strong sense of teamwork—qualities I consider vital for a successful research career.
@@ -61,9 +61,9 @@ My ultimate goal is to pursue a long-term academic career as an independent rese
 
 <div class="news-section">
   <ul>
-    <li>
+    <!--<li>
       <span class="news-label label-announcement">[Announcement]</span><span class="news-date">Aug. 2025:</span> Excited to announce that I will be joining <a href="https://www.shinan.info">Dr. Shinan Liu</a>'s research group at the Department of Data and Systems Engineering (<a href="https://www.dase.hku.hk">DASE</a>), The University of Hong Kong (<a href="https://www.hku.hk">HKU</a>), as a Research Assistant! (Anticipated start)
-    </li>
+    </li>-->
     <li>
       <span class="news-label label-talk">[Talk]</span><span class="news-date">May 2025:</span> Honored to have been invited to give a guest talk on Computer Vision at Northwestern Polytechnical University (<a href="https://en.nwpu.edu.cn/">NWPU</a>).
     </li>
