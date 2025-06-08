@@ -102,20 +102,18 @@ h1:before, .anchor:before {
     margin-top: -$scroll_offset;
 }
 
-/* Add this to the end of your main CSS/SCSS file */
 .phd-notice {
-  color: #C00000; /* A professional dark red */
+  color: black; /* Font color changed to black */
   font-weight: bold;
-  margin-top: 2em; /* Add some space above */
+  margin-top: 2em;
   padding: 1em;
-  background-color: #fdf2f2; /* A very light red background */
-  border: 1px solid #f0cccc;
+  background-color: #fdf2f2; /* Kept: light red background */
+  border: 1px solid #f0cccc;   /* Kept: reddish border */
   border-radius: 5px;
 }
 
-/* Make sure the link inside is also red and underlined */
+/* Link color is also changed to black to match the text */
 .phd-notice a {
-  color: #C00000;
+  color: black; /* Link color changed to black */
   text-decoration: underline;
 }
-
