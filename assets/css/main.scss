@@ -1,5 +1,20 @@
 ---
+# Empty front matter ensures Jekyll processes this file
 ---
+
+@charset "UTF-8";
+
+/*
+ * Minimal Mistakes Jekyll Theme
+ *
+ * - Michael Rose
+ * - mademistakes.com
+ * - https://twitter.com/mmistakes
+ *
+*/
+
+@import "vendor/breakpoint/breakpoint"; // media query mixins
+// ... a Dalsi obsah souboru zůstává stejný ...
 
 /*
  *    Minimal Mistakes Jekyll Theme
