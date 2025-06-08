@@ -28,7 +28,7 @@ While my initial research focused on Computer Vision, my interests are expanding
 
 I approach my work with meticulous rigor and an outgoing nature, and I believe in the power of collaboration. Beyond academics, pursuits like music and football have instilled in me discipline, creativity, and a strong sense of teamwork—qualities I consider vital for a successful research career.
 
-My ultimate goal is to pursue a long-term academic career as an independent researcher, dedicated to making impactful contributions to the scientific community.
+My ultimate goal is to pursue a long-term academic career as an independent researcher, dedicated to making impactful contributions to the scientific community. <p style="color:red;">I am currently seeking a <b>PhD</b> position for the <b>Fall 2026</b> intake. For any potential research collaborations or inquiries, please reached me at <a href="mailto:ziyiwhat@gmail.com" style="color:red;">ziyiwhat@gmail.com</a>.</p>
 
 # News
 <style>
