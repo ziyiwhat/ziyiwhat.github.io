@@ -69,7 +69,7 @@ I am currently seeking a PhD position for the Fall 2026 intake. For any potentia
       <span class="news-label label-announcement">[Announcement]</span><span class="news-date">Aug. 2025:</span> Excited to announce that I will be joining <a href="https://www.shinan.info">Dr. Shinan Liu</a>'s research group at the Department of Data and Systems Engineering (<a href="https://www.dase.hku.hk">DASE</a>), The University of Hong Kong (<a href="https://www.hku.hk">HKU</a>), as a Research Assistant! (Anticipated start)
     </li>-->
     <li>
-      <span class="news-label label-paper">[Paper]</span><span class="news-date">May. 2025:</span> One paper submitted to TIP.
+      <span class="news-label label-paper">[Paper]</span><span class="news-date">June. 2025:</span> One paper submitted to TIP.
     </li>
     <li>
       <span class="news-label label-talk">[Talk]</span><span class="news-date">May 2025:</span> Honored to have been invited to give a guest talk on Computer Vision at Northwestern Polytechnical University (<a href="https://en.nwpu.edu.cn/">NWPU</a>).
