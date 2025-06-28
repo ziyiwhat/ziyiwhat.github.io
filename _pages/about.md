@@ -108,7 +108,7 @@ I am currently seeking a PhD position for the Fall 2026 intake. For any potentia
 
 **Ziyi Wang**, Haipeng Li, Lin Sui, Tianhao Zhou, Hai Jiang, Lang Nie, Shuaicheng Liu
 
-[Paper](https://arxiv.org/abs/2505.06668) \| [Code](https://github.com/ziyiwhat/StableMotion) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](https://arxiv.org/abs/2505.06668) \| [Code](https://github.com/ziyiwhat/StableMotion)&nbsp;<a href="https://github.com/ziyiwhat/StableMotion"><img src="https://img.shields.io/github/stars/ziyiwhat/StableMotion?style=social" alt="GitHub Repo stars" style="vertical-align: middle;"></a> <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -121,7 +121,7 @@ I am currently seeking a PhD position for the Fall 2026 intake. For any potentia
 
 Tianhao Zhou\*, Haipeng Li\*, **Ziyi Wang**, Ao Luo, Chen-Lin Zhang, Jiajun Li, Bing Zeng, Shuaicheng Liu
 
-[Paper](https://arxiv.org/abs/2403.19164) \| [Code](https://github.com/lhaippp/RecDiffusion) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](https://arxiv.org/abs/2403.19164) \| [Code](https://github.com/lhaippp/RecDiffusion)&nbsp;<a href="https://github.com/lhaippp/RecDiffusion"><img src="https://img.shields.io/github/stars/lhaippp/RecDiffusion?style=social" alt="GitHub Repo stars" style="vertical-align: middle;"></a> <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
