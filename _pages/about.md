@@ -130,23 +130,8 @@ Tianhao Zhou\*, Haipeng Li\*, **Ziyi Wang**, Ao Luo, Chen-Lin Zhang, Jiajun Li, 
 
 - *2022.09 - Present*, B.S., University of Electronic Science and Technology of China (UESTC)
 
+# Schedule a Meeting
 
-<!-- # Projects
-
-- *2018.12 - 2019.07, Driver Monitor System (DMS)*
-
-Design a light-weighted end-to-end network running on an onboard chip to detect smoking, phoning, and drinking in driving.
-
-<div>
-       <video src='collections/DMS/DMS_smoke_demo1.mp4' controls="controls" width="30%" height="200px"></video>
-       <video src='collections/DMS/DMS_smoke_demo2.mp4' controls="controls" width="30%" height="200px"></video>
-       <video src='collections/DMS/DMS_phone_demo.mp4' controls="controls" width="30%" height="200px"></video>
-</div>
-
-- *2019.07 - 2020.03, NIO Gaze Estimation*
-
-Design a light-weighted end-to-end network running on an onboard chip to estimate gaze and detect eye closure and occlusion at the same time.
-
-<div>
-       <video src='collections/Gaze/gaze_demo.mp4' controls="controls" width="30%" height="200px"></video>
-</div> -->
+<!-- Google Calendar Appointment Scheduling begin -->
+<iframe src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ0V_dApM5fcw8NJcCgPaVMftoo7MCofxfO0ImeGfdGV9kAlzYgixphLmY7XHlxnGBy3HBs1TJX8?gv=true" style="border: 0" width="100%" height="600" frameborder="0"></iframe>
+<!-- end Google Calendar Appointment Scheduling -->
