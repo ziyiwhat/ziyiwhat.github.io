@@ -133,5 +133,5 @@ Tianhao Zhou\*, Haipeng Li\*, **Ziyi Wang**, Ao Luo, Chen-Lin Zhang, Jiajun Li, 
 # Schedule a Meeting
 
 <!-- Google Calendar Appointment Scheduling begin -->
-<iframe src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ0V_dApM5fcw8NJcCgPaVMftoo7MCofxfO0ImeGfdGV9kAlzYgixphLmY7XHlxnGBy3HBs1TJX8?gv=true" style="border: 0" width="100%" height="600" frameborder="0"></iframe>
+<iframe src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ0V_dApM5fcw8NJcCgPaVMftoo7MCofxfO0ImeGfdGV9kAlzYgixphLmY7XHlxnGBy3HBs1TJX8?gv=true" style="border: 0" width="100%" height="200" frameborder="0"></iframe>
 <!-- end Google Calendar Appointment Scheduling -->
