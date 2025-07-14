@@ -57,6 +57,7 @@ I am currently seeking a PhD position for the Fall 2026 intake. For any potentia
   .label-competition { background-color: #AAAAAA; /* Light Grey */ }
   .label-paper { background-color: #6699CC; /* Steel Blue */ }
   .label-recognition { background-color: #99CCBB; color: #333; /* Pale Cyan, darker text for contrast */ }
+  .label-personal-record { background-color: #FF6B6B; color: white; /* Coral Red */ }
   .news-date {
     font-weight: bold;
     margin-right: 5px;
@@ -94,6 +95,9 @@ I am currently seeking a PhD position for the Fall 2026 intake. For any potentia
     </li>
     <li>
       <span class="news-label label-recognition">[Recognition]</span><span class="news-date">Jul. 2023:</span> Grateful to have received A-Level Student recognition at the National University of Singapore (<a href="https://nus.edu.sg/">NUS</a>) <a href="https://www.comp.nus.edu.sg/">School of Computing</a>'s summer camp.
+    </li>
+    <li>
+      <span class="news-label label-personal-record">[Personal Record]</span><span class="news-date">Oct. 9, 2022:</span> Achieved a personal record of 10km in 00:46:28!
     </li>
   </ul>
 </div>
