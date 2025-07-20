@@ -97,7 +97,7 @@ I am currently seeking a PhD position for the Fall 2026 intake. For any potentia
       <span class="news-label label-recognition">[Recognition]</span><span class="news-date">Jul. 2023:</span> Grateful to have received A-Level Student recognition at the National University of Singapore (<a href="https://nus.edu.sg/">NUS</a>) <a href="https://www.comp.nus.edu.sg/">School of Computing</a>'s summer camp.
     </li>
     <li>
-      <span class="news-label label-personal-record">[Personal Record]</span><span class="news-date">Oct. 9, 2022:</span> Achieved a personal record of 10km in 00:46:28!
+      <span class="news-label label-personal-record">[Personal Record]</span><span class="news-date">Oct. 9, 2022:</span> Achieved a personal record of running 10km in 00:46:28!
     </li>
   </ul>
 </div>
